@@ -109,7 +109,7 @@ def main():
 
     # Choose which file you wish to evaluate
     isArchaea = True 
-    isBacteria = True 
+    isBacteria = False 
 
     if (isRandomSplit):
         # Random Split 
