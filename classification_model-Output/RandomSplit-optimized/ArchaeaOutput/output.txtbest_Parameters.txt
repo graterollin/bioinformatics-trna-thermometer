@@ -1,0 +1,1 @@
+{'taildenseNumber': 1, 'strides1': 1, 'pool_size1': 5, 'learning_rate': 0.001, 'kernel_size1': 5, 'hidden_layer2': 16, 'hidden_layer1': 32, 'filter_size1': 32, 'drop_out1': 0.1, 'denseLayerNumber': 2, 'convNumber': 1, 'beta2': 0.988300227831595, 'beta1': 0.9899973952502525, 'batch_size': 16}
