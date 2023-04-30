@@ -10,4 +10,4 @@ Contains the scripts developed for both interpreting the results of the CNN clas
 ## Models 
 The rest of the folders contain the different models and their scripts/output data. The classification and regression models are based off the original work from the authors above, while the transformer model was developed for the purpose of attempting to improve on their work. 
 
-The classification model output folder also has the results from the experimentation done on hyperparameter finetuning for the random data split. The results can be found in classification_model-Output/RandomSplit/ArchaeaOutput/OptimizedOutput
+The classification model output folder also has the results from the experimentation done on hyperparameter finetuning for the random data split. The results can be found in classification_model-Output/RandomSplit-optimized/ArchaeaOutput
